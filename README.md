@@ -1,4 +1,4 @@
-# PET CARE API
+# PET CARE ADMIN
 
 A Website for managing dog grooming appointments, including user registration, login, and appointment scheduling.
 
