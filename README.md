@@ -2,12 +2,6 @@
 
 A Website for managing dog grooming appointments, including user registration, login, and appointment scheduling.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Routes](#routes)
-- [Models](#models)
-
 ## Getting Started
 
 Follow these steps to set up and run the Dog Grooming Appointment System on your local machine.
